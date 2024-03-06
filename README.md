@@ -6,16 +6,16 @@ This project aims to analyze the frequency of colors worn by staff at Bincom ICT
 
 The project consists of the following components:
 
-1. **Python Script**: The `color_frequency_analysis.py` script analyzes the color data extracted from the HTML table. It calculates various statistics such as the mean color, median color, variance of color choices, and the probability of selecting a specific color randomly.
+1. **Python Script**: The `main.py` script analyzes the color data extracted from the HTML table. It calculates various statistics such as the mean color, median color, variance of color choices, and the probability of selecting a specific color randomly.
 
 2. **README**: This README file provides an overview of the project, instructions for running the Python script, explanations of how to interpret the results, and future enhancements.
 
 ## Running the Script
 
-To run the `color_frequency_analysis.py` script:
+To run the `main.py` script:
 
 1. Ensure you have Python installed on your system.
-2. Run the script using `python color_frequency_analysis.py`.
+2. Run the script using `python main.py`.
 
 ## Results Interpretation
 
